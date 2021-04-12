@@ -1,6 +1,6 @@
 # frode_mvvm
 
-flutter基于Provider实现mvvm事例及使用方法.
+flutter基于Provider实现mvvm示例及使用方法.
 
 ## Getting Started
 
